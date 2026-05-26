@@ -23,9 +23,9 @@ End-to-end sales pipeline analysis for a B2B CRM dataset — opportunity trackin
 
 ## Business Problem
 
-A regional B2B sales team wants to understand where pipeline is being won or lost across stages, reps, and products. The key stakeholder questions: *Are we tracking to target? Which reps need coaching vs. scaling? Where is deal velocity lowest?*
+A B2B sales company wants to understand where pipeline is being won or lost across stages, reps, and products. The key stakeholder questions: *Are we tracking to target? Which reps need coaching vs. scaling? Where is deal velocity lowest?*
 
-This dashboard gives a Sales VP a single view to answer all three — at the monthly, quarterly, and rep level — without pulling raw CRM exports every week.
+This dashboard gives a Sales VP a single view to answer all three, at the monthly, quarterly and rep level, without pulling raw CRM exports every week.
 
 ---
 
@@ -49,9 +49,9 @@ This dashboard gives a Sales VP a single view to answer all three — at the mon
 
 ## Key Findings
 
-| Total Pipeline | Win Rate | Avg Deal Size | Avg Sales Cycle |
-|:---:|:---:|:---:|:---:|
-| **$4.2M** | **34%** | **$18,400** | **47 days** |
+| Total Pipeline | Win Rate | Avg Sales Cycle |
+|:---:|:---:|:---:|
+| **$10.0M** | **48.2%** | **48 days** |
 
 **Pipeline concentration risk**
 Top 3 reps account for 61% of closed-won revenue. Bottom quartile shows a 40% longer average sales cycle, suggesting a coaching opportunity rather than a capacity issue.
