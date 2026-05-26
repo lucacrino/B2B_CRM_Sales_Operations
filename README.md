@@ -25,7 +25,7 @@ End-to-end sales pipeline analysis for a B2B CRM dataset — opportunity trackin
 
 A B2B sales company wants to understand where pipeline is being won or lost across stages, reps, and products. The key stakeholder questions: *Are we tracking to target? Which reps need coaching vs. scaling? Where is deal velocity lowest?*
 
-This dashboard gives a Sales VP a single view to answer all three, at the monthly, quarterly and rep level, without pulling raw CRM exports every week.
+This dashboard gives a Sales VP a single view to answer all three without pulling raw CRM exports every week.
 
 ---
 
