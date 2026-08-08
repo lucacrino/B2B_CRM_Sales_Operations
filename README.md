@@ -90,9 +90,6 @@ PK  CompanyName             PK  SalesAgent
 
 ```
 
-> The date table is role-played twice — once for `created_date` and once for `close_date` — so filters on either field work independently across all visuals.
-
----
 
 ## DAX Highlights
 
