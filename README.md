@@ -72,8 +72,15 @@ Star schema with one fact table and four dimension tables. The date table is gen
 
 Company_Lookup              Sales_Team_Lookup        Product_Lookup
 ─────────────────────       ────────────────────     ────────────────────
-
-
+    AnnualRevenue
+PK  CompanyName
+    Continent
+    EmployeesNumber
+    HQLocation
+    ParentCompany
+    Sector
+    SubsidiaryOf
+    YearEstablished
 
 
 
