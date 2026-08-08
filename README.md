@@ -69,20 +69,16 @@ Top 3 reps account for 61% of closed-won revenue. Bottom quartile shows a 40% lo
 Star schema with one fact table and four dimension tables. The date table is generated in DAX to enable independent cross-filtering on both `created_date` and `close_date`.
 
 ```
-fact_opportunities          dim_date               dim_rep
-─────────────────────       ────────────────────   ────────────────────
-PK  opportunity_id    ───── PK  date_key            PK  rep_key
-    amount                      date                    rep_name
-    stage                       month                   region
-FK  created_date_key            quarter                 team
-FK  close_date_key              fiscal_year
-FK  rep_key           ──────────────────────────────────────────────────
-FK  product_key                                     dim_product
-                                                    ────────────────────
-                                                    PK  product_key
-                                                        product_name
-                                                        category
-                                                        tier
+
+Company_Lookup              Sales_Team_Lookup        Product_Lookup
+─────────────────────       ────────────────────     ────────────────────
+
+
+
+
+
+
+
 ```
 
 > The date table is role-played twice — once for `created_date` and once for `close_date` — so filters on either field work independently across all visuals.
