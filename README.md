@@ -31,18 +31,18 @@ This dashboard gives a Sales VP a single view to answer all three without pullin
 
 ## Dashboard Overview
 
-### Page 1 — Pipeline & Revenue
+### Overview & Map
 
-| Overview Dashboard | Pipeline Funnel |
+| Overview Dashboard | Map Dashboard |
 |---|---|
-| ![Overview](screenshots/overview_dashboard.png) | ![Funnel](screenshots/pipeline_funnel.png) |
+| ![Overview](images/executive_overview.png) | ![Map](images/map.png) |
 | Monthly won revenue vs. target with pipeline coverage ratio. Q3 dip visible — flagged in findings. | Stage-by-stage conversion rates. Prospect → Qualified has the highest drop-off at 38%. |
 
-### Page 2 — Rep Performance
+### Pipeline & Team Benchmark
 
-| Rep Performance | Product Mix |
+| Deals Pipeline | Team Benchmark |
 |---|---|
-| ![Reps](screenshots/rep_performance.png) | ![Product](screenshots/product_mix.png) |
+| ![Pipeline](images/pipeline.png) | ![Team](images/team_benchmark.png) |
 | Win rate, average deal size, and deal velocity per rep. Sortable by any metric. | Revenue split by product category across regions. Enterprise tier drives 71% of total closed-won value. |
 
 ---
