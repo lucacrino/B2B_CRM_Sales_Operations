@@ -38,7 +38,7 @@ This dashboard gives a Sales VP a single view to answer all three without pullin
 | ![Overview](images/executive_overview.png) | ![Map](images/map.png) |
 | Monthly won revenue vs. target with pipeline coverage ratio. Q3 dip visible — flagged in findings. | Stage-by-stage conversion rates. Prospect → Qualified has the highest drop-off at 38%. |
 
-### Pipeline & Team Benchmark
+### Pipeline & Team
 
 | Deals Pipeline | Team Benchmark |
 |---|---|
