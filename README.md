@@ -70,15 +70,15 @@ Star schema with one fact table and four dimension tables. The date table is gen
 
 ```
 
-Company_Lookup              Sales_Team_Lookup         Product_Lookup
-─────────────────────       ────────────────────      ────────────────────
-    AnnualRevenue               Manager
-PK  CompanyName             PK  SalesAgent   
-    Continent                   RegionalOffice
-    EmployeesNumber             
-    HQLocation
-    ParentCompany
-    Sector
+Company_Lookup              Sales_Team_Lookup         Product_Lookup              Calendar_Lookup
+─────────────────────       ────────────────────      ────────────────────        ──────────────────────
+    AnnualRevenue               Manager                    ProductName                 Day Name             
+PK  CompanyName             PK  SalesAgent             PK  ProductSeries           PK  Date
+    Continent                   RegionalOffice             SalesPrice                  Month
+    EmployeesNumber                                                                    Month Name
+    HQLocation                                                                         Start of Month
+    ParentCompany                                                                      Start of Quarter
+    Sector                                                                             Start of Week
     SubsidiaryOf
     YearEstablished
 
