@@ -106,12 +106,16 @@ PK  CompanyName             PK  SalesAgent             PK  ProductSeries        
 ### Win rate (filtered by stage)
 
 ```dax
--- Won / (Won + Lost) — excludes open pipeline from the denominator
-Win Rate =
+-- Won / Total Deals 
+% of Won Deals =
   DIVIDE(
-    CALCULATE(COUNTROWS(fact_opportunities), fact_opportunities[stage] = "Won"),
-    CALCULATE(COUNTROWS(fact_opportunities),
-      fact_opportunities[stage] IN {"Won", "Lost"})
+           CALCULATE(
+    DISTINCTCOUNT(Sales_Pipeline[OpportunityID]),
+    Sales_Pipeline[DealStage] = "Won"),
+
+    CALCULATE(
+    DISTINCTCOUNT(Sales_Pipeline[OpportunityID]),
+    ALL( Sales_Pipeline))
   )
 ```
 
