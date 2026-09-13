@@ -83,9 +83,19 @@ PK  CompanyName             PK  SalesAgent             PK  ProductSeries        
     YearEstablished
 
 
-
+                                    Sales_Pipeline
                                     _______________________
 
+                                    FK  CloseDate
+                                        CloseValue
+                                    FK  CompanyName
+                                        DealStage
+                                        EngageDate
+                                        OpportunityID
+                                        Premium
+                                    FK  ProductName
+                                        SalesAgent
+                                        SalesVelocity(Days)         
 
 
 ```
