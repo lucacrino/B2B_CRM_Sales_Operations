@@ -5,7 +5,7 @@
 ![SQL](https://img.shields.io/badge/SQL-336791?style=flat&logo=postgresql&logoColor=white)
 ![Data Modelling](https://img.shields.io/badge/Data%20Modelling-0D6EFD?style=flat&logoColor=white)
 
-End-to-end sales pipeline analysis for a B2B CRM dataset — opportunity tracking, rep performance benchmarking, and revenue forecasting in Power BI. Built to simulate a real analyst handoff to a VP of Sales.
+End-to-end sales pipeline analysis for a B2B CRM dataset — opportunity tracking, performance benchmarking and revenue forecasting in Power BI. Built to simulate a real analyst handoff to a VP of Sales.
 
 ---
 
@@ -23,7 +23,7 @@ End-to-end sales pipeline analysis for a B2B CRM dataset — opportunity trackin
 
 ## Business Problem
 
-A B2B sales company wants to understand where pipeline is being won or lost across stages, reps, and products. The key stakeholder questions: *Are we tracking to target? Which reps need coaching vs. scaling? Where is deal velocity lowest?*
+A B2B sales company wants to understand where pipeline is being won or lost across stages and products. The key stakeholder questions: *Are we tracking to target? Which reps need coaching vs. scaling? Where is deal velocity lowest?*
 
 This dashboard gives a Sales VP a single view to answer all three without pulling raw CRM exports every week.
 
