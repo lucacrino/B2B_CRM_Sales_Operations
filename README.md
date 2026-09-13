@@ -103,7 +103,7 @@ PK  CompanyName             PK  SalesAgent             PK  ProductSeries        
 
 ## DAX Highlights
 
-### Win rate (filtered by stage)
+### Win rate
 
 ```dax
 -- Won / Total Deals 
