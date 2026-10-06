@@ -17,7 +17,7 @@ End-to-end sales pipeline analysis for a B2B CRM dataset — opportunity trackin
 4. [Data Model](#data-model)
 5. [DAX Highlights](#dax-highlights)
 6. [How to Open](#how-to-open)
-7. [What I'd Do With More Data](#what-id-do-with-more-data)
+
 
 ---
 
@@ -148,11 +148,6 @@ Coverage Ratio =
 
 > The dataset is fully synthetic — no real customer or revenue data is included. No gateway or credentials are required.
 
----
-
-## What I'd Do With More Data
-
-With real CRM data I'd layer in lead source attribution to close the loop between marketing spend and pipeline quality. The rep performance page would be significantly more useful with quota attainment data — raw revenue figures without targets can't distinguish a low-performer from someone with a small territory.
 
 I'd also build a stage-transition probability model in Python (logistic regression or a simple Markov chain) and surface it as an embedded visual to give reps a live win-probability score per deal.
 
