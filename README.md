@@ -146,11 +146,5 @@ Coverage Ratio =
 2. Clone this repo or download the `.pbix` file directly
 3. Open `CRM_Sales_Opportunities.pbix` in Power BI Desktop
 
-> The dataset is fully synthetic — no real customer or revenue data is included. No gateway or credentials are required.
-
-
-I'd also build a stage-transition probability model in Python (logistic regression or a simple Markov chain) and surface it as an embedded visual to give reps a live win-probability score per deal.
-
----
 
 *Dataset is synthetic and generated for portfolio purposes. All figures are illustrative.*
