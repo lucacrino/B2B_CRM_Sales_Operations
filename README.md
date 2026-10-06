@@ -125,12 +125,16 @@ Revenue per Deal =
   )
 ```
 
-### Pipeline coverage ratio
+### Pipeline Value
 
 ```dax
--- Open pipeline / remaining target. Drops below 3x = risk signal
-Coverage Ratio =
-  DIVIDE([Open Pipeline], [Remaining Target])
+-- Total potential value from 'Engaging' or 'Prospecting' deals
+
+Total Pipeline Value =
+  CALCULATE(
+    SUMX(Sales_Pipeline, RELATED(Product_Lookup[SalesPrice])),
+    Sales_Pipeline[DealStage] = "Engaging" || Sales_Pipeline[DealStage] = "Prospecting"
+  )
 ```
 
 ---
