@@ -53,7 +53,7 @@ This dashboard gives a Sales VP a single view to answer all three without pullin
 |:---:|:---:|:---:|
 | **$10.0M** | **48.2%** | **48 days** |
 
-**XXX**
+**XXXXX**
 
 ---
 
