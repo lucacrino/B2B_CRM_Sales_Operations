@@ -53,14 +53,7 @@ This dashboard gives a Sales VP a single view to answer all three without pullin
 |:---:|:---:|:---:|
 | **$10.0M** | **48.2%** | **48 days** |
 
-**Pipeline concentration risk**
-Top 3 reps account for 61% of closed-won revenue. Bottom quartile shows a 40% longer average sales cycle, suggesting a coaching opportunity rather than a capacity issue.
-
-**Q3 coverage ratio dropped to 2.1×**, below the 3× benchmark — a leading indicator of the Q4 miss. The gap appeared in July and widened through September with no corrective action visible in the data.
-
-**Prospect → Qualified is the biggest leak:** 38% of opportunities stall at this stage. Combined with a median time-in-stage of 19 days, this points to a qualification criteria problem, not a volume problem.
-
-**Enterprise tier outperforms SMB** on both win rate (+11 pp) and deal size (3.8× larger). Current rep allocation does not reflect this — SMB accounts for 54% of rep hours.
+**XXX**
 
 ---
 
