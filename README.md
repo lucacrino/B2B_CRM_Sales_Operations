@@ -66,7 +66,7 @@ Top 3 reps account for 61% of closed-won revenue. Bottom quartile shows a 40% lo
 
 ## Data Model
 
-Star schema with one fact table and four dimension tables. The date table is generated in DAX to enable independent cross-filtering on both `created_date` and `close_date`.
+Star schema with one fact table and four dimension tables.
 
 ```
 
