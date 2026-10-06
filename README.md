@@ -106,7 +106,8 @@ PK  CompanyName             PK  SalesAgent             PK  ProductSeries        
 ### Win rate
 
 ```dax
--- Won / Total Deals 
+-- Won / Total Deals
+
 % of Won Deals =
   DIVIDE(
            CALCULATE(
@@ -119,14 +120,15 @@ PK  CompanyName             PK  SalesAgent             PK  ProductSeries        
   )
 ```
 
-### Rolling 3-month revenue
+### Revenue-per-deal
 
 ```dax
--- Used to smooth seasonal noise on the revenue trend line
-Revenue 3M Rolling =
-  CALCULATE(
-    [Total Revenue],
-    DATESINPERIOD(dim_date[date], LASTDATE(dim_date[date]), -3, MONTH)
+-- Total Deal Value / Total Deals
+
+Revenue per Deal =
+  DIVIDE(
+    SUM(Sales_Pipeline[CloseValue]),
+    DISTINCTCOUNT(Sales_Pipeline[OpportunityID])
   )
 ```
 
