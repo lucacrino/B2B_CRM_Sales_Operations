@@ -149,4 +149,7 @@ Coverage Ratio =
 3. Open `CRM_Sales_Opportunities.pbix` in Power BI Desktop
 
 
+
+
+
 *Dataset is synthetic and generated for portfolio purposes. All figures are illustrative.*
