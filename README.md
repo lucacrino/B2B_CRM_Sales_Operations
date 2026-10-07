@@ -143,7 +143,7 @@ Total Pipeline Value =
 
 1. Download [Power BI Desktop](https://powerbi.microsoft.com/desktop/) (free)
 2. Clone this repo or download the `.pbix` file directly
-3. Open `CRM_Sales_Opportunities.pbix` in Power BI Desktop
+3. Open `CRM Sales Opportunities report.pbix` in Power BI Desktop
 
 
 
