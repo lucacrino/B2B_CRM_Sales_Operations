@@ -9,7 +9,7 @@ End-to-end sales pipeline analysis for a B2B CRM dataset — opportunity trackin
 
 ---
 
-## Contents
+## 📂Contents
 
 1. [Business Problem](#business-problem)
 2. [Dashboard Overview](#dashboard-overview)
@@ -21,7 +21,7 @@ End-to-end sales pipeline analysis for a B2B CRM dataset — opportunity trackin
 
 ---
 
-## Business Problem
+## ⚠️Business Problem
 
 A B2B sales company wants to understand where pipeline is being won or lost across stages and products. The key stakeholder questions: *Are we tracking to target? Which reps need coaching vs. scaling? Where is deal velocity lowest?*
 
@@ -47,7 +47,7 @@ This dashboard gives a Sales VP a single view to answer all three without pullin
 
 ---
 
-## Key Findings
+## 🔎Key Findings
 
 | Total Pipeline | Win Rate | Avg Sales Cycle |
 |:---:|:---:|:---:|
