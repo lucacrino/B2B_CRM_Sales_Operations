@@ -1,4 +1,4 @@
-# B2B CRM Sales Opportunity Analysis
+# 💼B2B CRM Sales Opportunity Analysis
 
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black)
 ![DAX](https://img.shields.io/badge/DAX-7B5EA7?style=flat&logoColor=white)
