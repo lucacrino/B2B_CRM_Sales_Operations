@@ -29,7 +29,7 @@ This dashboard gives a Sales VP a single view to answer all three without pullin
 
 ---
 
-## Dashboard Overview
+## 🗺️ Dashboard Overview
 
 ### Overview & Map
 
@@ -57,7 +57,7 @@ This dashboard gives a Sales VP a single view to answer all three without pullin
 
 ---
 
-## Data Model
+## 💾 Data Model
 
 Star schema with one fact table and four dimension tables.
 
@@ -94,7 +94,7 @@ PK  CompanyName             PK  SalesAgent             PK  ProductSeries        
 ```
 
 
-## DAX Highlights
+## ✨ DAX Highlights
 
 ### Win rate
 
