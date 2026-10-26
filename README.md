@@ -49,13 +49,10 @@ This dashboard gives a Sales VP a single view to answer all three without pullin
 
 ## 🔎 Key Findings
 
-| Total Pipeline | Win Rate | Avg Sales Cycle |
-|:---:|:---:|:---:|
-| **$10.0M** | **48.2%** | **48 days** |
 
-**Key sectors**
+**Key Corporations**
 
-Top 3 sectors (Retail, Technology, Medical) account for more than 42% of total revenue
+Top 10 Corporate Groups account for more than 30% of total deal value with an average days to close of 49
 
 ---
 
