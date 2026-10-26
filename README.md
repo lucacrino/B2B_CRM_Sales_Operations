@@ -45,14 +45,6 @@ This dashboard gives a Sales VP a single view to answer all three without pullin
 | ![Pipeline](images/pipeline.png) | ![Team](images/team_benchmark.png) |
 | Sales pipeline dashboard: deal funnel by stage, revenue trend and average days to close, filterable by product. | Team performance dashboard: revenue by sales agent, deal outcome distribution, and pipeline vs. lost value by product, filterable by manager.|
 
----
-
-## 🔎 Key Findings
-
-
-**Key Corporations**
-
-Top 10 Corporate Groups account for more than 30% of total deal value with an average days to close of 49
 
 ---
 
