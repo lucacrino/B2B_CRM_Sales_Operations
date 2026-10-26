@@ -43,7 +43,7 @@ This dashboard gives a Sales VP a single view to answer all three without pullin
 | Deals Pipeline | Team Benchmark |
 |---|---|
 | ![Pipeline](images/pipeline.png) | ![Team](images/team_benchmark.png) |
-| Sales pipeline dashboard: deal funnel by stage, revenue trend, and average days to close, filterable by product. | Team performance dashboard: revenue by sales agent, deal outcome distribution, and pipeline vs. lost value by product, filterable by manager.|
+| Sales pipeline dashboard: deal funnel by stage, revenue trend and average days to close, filterable by product. | Team performance dashboard: revenue by sales agent, deal outcome distribution, and pipeline vs. lost value by product, filterable by manager.|
 
 ---
 
@@ -53,7 +53,9 @@ This dashboard gives a Sales VP a single view to answer all three without pullin
 |:---:|:---:|:---:|
 | **$10.0M** | **48.2%** | **48 days** |
 
-**XXXXX**
+**Key sectors**
+
+Top 3 sectors (Retail, Technology, Medical) account for more than 42% of total revenue
 
 ---
 
