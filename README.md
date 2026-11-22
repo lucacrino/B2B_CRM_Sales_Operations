@@ -11,7 +11,7 @@ End-to-end sales pipeline analysis for a B2B CRM dataset — opportunity trackin
 ## 📂 Contents
 
  - [Business Problem](#business-problem)
- - [Dashboard Overview](#dashboard-overview)
+ - [Dashboard Overview & Recording](#dashboard-overview-&-recording)
  - [Data Model](#data-model)
  - [DAX Highlights](#dax-highlights)
  - [How to Open](#how-to-open)
@@ -27,7 +27,7 @@ This dashboard gives a Sales VP a single view to answer all three without pullin
 
 ---
 
-## 🗺️ Dashboard Overview
+## 🗺️ Dashboard Overview & Recording
 
 ### Overview & Map
 
