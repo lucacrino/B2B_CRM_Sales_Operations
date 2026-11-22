@@ -29,7 +29,7 @@ This dashboard gives a Sales VP a single view to answer all three without pullin
 
 ## 🗺️ Dashboard Overview & Recording
 
-> 🎬 **Download the file to watch the full project in action** → [dashboard_recording.mp4](dashboard_recording.mp4)
+> 🎬 **Download the file to watch the full project in action** → [dashboard_recording](dashboard_recording.mp4)
 
 ### Overview & Map
 
