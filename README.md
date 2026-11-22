@@ -12,9 +12,9 @@ End-to-end sales pipeline analysis for a B2B CRM dataset — opportunity trackin
 
  - [Business Problem](#business-problem)
  - [Dashboard Overview](#dashboard-overview)
- [Data Model](#data-model)
- [DAX Highlights](#dax-highlights)
- [How to Open](#how-to-open)
+ - [Data Model](#data-model)
+ - [DAX Highlights](#dax-highlights)
+ - [How to Open](#how-to-open)
 
 
 ---
