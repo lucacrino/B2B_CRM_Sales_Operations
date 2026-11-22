@@ -2,7 +2,6 @@
 
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black)
 ![DAX](https://img.shields.io/badge/DAX-7B5EA7?style=flat&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-336791?style=flat&logo=postgresql&logoColor=white)
 ![Data Modelling](https://img.shields.io/badge/Data%20Modelling-0D6EFD?style=flat&logoColor=white)
 
 End-to-end sales pipeline analysis for a B2B CRM dataset — opportunity tracking, performance benchmarking and revenue forecasting in Power BI. Built to simulate a real analyst handoff to a VP of Sales.
