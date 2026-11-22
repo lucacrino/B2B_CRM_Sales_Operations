@@ -10,12 +10,11 @@ End-to-end sales pipeline analysis for a B2B CRM dataset — opportunity trackin
 
 ## 📂 Contents
 
-1. [Business Problem](#business-problem)
-2. [Dashboard Overview](#dashboard-overview)
-3. [Key Findings](#key-findings)
-4. [Data Model](#data-model)
-5. [DAX Highlights](#dax-highlights)
-6. [How to Open](#how-to-open)
+ [Business Problem](#business-problem)
+ [Dashboard Overview](#dashboard-overview)
+ [Data Model](#data-model)
+ [DAX Highlights](#dax-highlights)
+ [How to Open](#how-to-open)
 
 
 ---
