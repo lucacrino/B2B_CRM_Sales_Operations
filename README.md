@@ -29,6 +29,8 @@ This dashboard gives a Sales VP a single view to answer all three without pullin
 
 ## 🗺️ Dashboard Overview & Recording
 
+> 🎬 **Download the file to watch the full project in action** → [dashboard_recording.mp4](dashboard_recording.mp4)
+
 ### Overview & Map
 
 | Executive Overview | Map Dashboard |
@@ -42,9 +44,6 @@ This dashboard gives a Sales VP a single view to answer all three without pullin
 |---|---|
 | ![Pipeline](images/pipeline.png) | ![Team](images/team_benchmark.png) |
 | Sales pipeline dashboard: deal funnel by stage, revenue trend and average days to close, filterable by product. | Team performance dashboard: revenue by sales agent, deal outcome distribution, and pipeline vs. lost value by product, filterable by manager.|
-
-
-> 🎬 **Download the file to watch the full project in action** → [dashboard_recording.mp4](dashboard_recording.mp4)
 
 ---
 
